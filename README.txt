@@ -50,3 +50,12 @@ https://idp.ssocircle.com/sso/hos/ManageSPMetadata.jsp
 https://github.com/spring-projects/spring-security-saml
 
 http://www.codeproject.com/Articles/746569/Sharing-Experience-of-SSO-Integration-via-SAML-Res?display=Print
+http://www.eastbanctech.com/sharing-experience-of-sso-integration-via-saml-2-0-resources-2/
+https://wiki.shibboleth.net/confluence/display/SHIB2/SLOIssues
+
+http://grepcode.com/file/repository.jboss.org/nexus/content/repositories/releases/org.picketlink/picketlink-web/1.0.2/org/picketlink/identity/federation/web/filters/SPFilter.java#SPFilter.0serviceURL
+
+https://developers.google.com/google-apps/sso/saml_reference_implementation_web
+http://docs.forgerock.org/en/openam/10.0.0/admin-guide/index/chap-federation.html
+http://www.javaroots.com/2013/05/configure-cas-server-and-client-in-java.html
+http://stackoverflow.com/questions/14950023/how-to-implement-sso-on-existing-tomcat-web-application
